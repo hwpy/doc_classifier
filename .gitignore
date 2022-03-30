@@ -127,3 +127,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Customs
+/model/
+/vosk-api/
+# /audio/
+# /excel/
+.flake8
+.mypy.ini
+.pylintrc
+.mustache
+# OS generated #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

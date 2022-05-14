@@ -147,3 +147,4 @@ Thumbs.db
 .pylintrc
 .mustache
 *.ipynb
+/data/

@@ -148,3 +148,4 @@ Thumbs.db
 .mustache
 *.ipynb
 /data/*.csv
+tf_models/

@@ -146,6 +146,5 @@ Thumbs.db
 .mypy.ini
 .pylintrc
 .mustache
-*.ipynb
 /data/*.csv
 tf_models/
